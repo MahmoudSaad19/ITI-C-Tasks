@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1571142573 source:c:\users\mahmoud\documents\c projects\c_lab2_ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571144044 source:c:\users\mahmoud\documents\c projects\lab2\c_lab2_ex5\main.c
+	<stdio.h>
+	<stdlib.h>
+
